@@ -1,8 +1,8 @@
 #pragma once
+ -*- coding: utf-8 -*-
 #include <iostream>
 #include <string>
 using namespace std;
-// -*- coding: utf-8 -*-
 class Person {
     string names[32] = {
         "Àëåêñàíäð", "Àëåêñåé", "Àíäðåé", "Àðòåì", "Âàëåíòèí",
