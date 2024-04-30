@@ -1,5 +1,5 @@
 #pragma once
- -*- coding: utf-8 -*-
+ //-*- coding: utf-8 -*-
 #include <iostream>
 #include <string>
 using namespace std;
